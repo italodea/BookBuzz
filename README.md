@@ -1,7 +1,13 @@
 # Atenção!
 
-Para funcionar é preciso cadastrar um novo projeto no firebase e preencher o arquivo google-service.json e o firebase_options.dart
-Para se conectar ao backend feito em Spring Boot é preciso clonar o repositório https://github.com/maycon-mdrs/BookBuzz-API/ e configurar o arquivo api.dart
+Para funcionar é preciso cadastrar um novo projeto no firebase e preencher o arquivo ```google-service.json``` e o ```firebase_options.dart```
+Para se conectar ao backend feito em Spring Boot é preciso clonar o repositório [Link](https://github.com/maycon-mdrs/BookBuzz-API/) e configurar o arquivo ```api.dart```
+
+Este projeto só foi capaz graças a colaboração dos seguintes estudantes do BTI:
+
+Gabriel Cavalcante Dantas [Github](https://github.com/gabrielcavd/)<br>
+Ítalo de Azevedo Albuquerque [Github](https://github.com/italodea/)<br>
+Maycon Douglas Rêgo Santos[Github](https://github.com/maycon-mdrs/)
 
 
 ## To do list - Requisitos Unidade 1
